@@ -33,7 +33,7 @@ Most C programs that satisfy below criteria should work!
     etc.
 
 **Unsupported:**
-    FOR Loops, 
+    For Loops, 
     Operators : ++, --, +=, -=, *=, /= ;
     Structs,
     Multidimensional Arrays
